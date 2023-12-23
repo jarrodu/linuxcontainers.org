@@ -1,4 +1,5 @@
-# linuxcontainers.org
+linuxcontainers.org
+===================
 
 This branch contains the content and site generator of the
 https://linuxcontainers.org website.
